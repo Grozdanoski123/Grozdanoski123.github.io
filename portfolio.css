@@ -40,17 +40,17 @@ a:hover {
 }
 
 .img1 {
-    background-image: url('C:/Users/Sashe/OneDrive/Desktop/HTML-CSS/Lesson 6/homewok/MyWebsite.html/images/image1.jpg');
+    background-image: url('/images/image1.jpg');
     min-height: 100%;
 }
 
 .img2 {
-    background-image: url('C:/Users/Sashe/OneDrive/Desktop/HTML-CSS/Lesson 6/homewok/MyWebsite.html/images/image2.jpg');
+    background-image: url('/images/image2.jpg');
     min-height: 400px;
 }
 
 .img3 {
-    background-image: url('C:/Users/Sashe/OneDrive/Desktop/HTML-CSS/Lesson 6/homewok/MyWebsite.html/images/image3.jpg');
+    background-image: url('/images/image3.jpg');
     min-height: 400px;
 }
 
